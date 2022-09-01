@@ -11,6 +11,6 @@ one part per million of GPS time.
 
 The control loop is woefully engineered, and the size of all the 
 registers has been (not) optimized for coding simplicity, and all
-the constants are emperically derived, but it works as advertised.
+the constants are empirically derived, but it works as advertised.
 
 Plenty of room for experiment and improvement.
